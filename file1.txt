@@ -1,1 +1,2 @@
 hello user "you are creating a text file to upload into git repo"
+i am adding some text here
